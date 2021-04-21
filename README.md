@@ -17,10 +17,10 @@ Found within the project src folder includes:
 * Assistant.java
 * AssistantOnShift.java
 * BookableRoom.java
-* Booking
-* BookingSystem
-* main
-* Room
+* Booking.java
+* BookingSystem.java
+* main.java
+* Room.java
 
 ## Contributing
 Please feel free to contribute to this project, since this is an open source project contributions made are appreciated.
